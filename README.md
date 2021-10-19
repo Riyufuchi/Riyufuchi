@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riyufuchi
-- 📫 How to reach me: On my Twitter
+- 📫 How to reach me: My Twitter, <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/riyufuchi">Ko-Fi</a>
 - "Our intrepid leaders had everything they wanted! Power. Wealth. Prestige. <br>And it made them lazy, America. Oh yes, and <b>laziness breeds stupidity</b>." <br> - John Henry Eden, Fallout 3
 
 <!---
